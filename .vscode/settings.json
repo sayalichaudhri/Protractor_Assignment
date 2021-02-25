@@ -1,0 +1,7 @@
+{
+    "cucumberautocomplete.steps": [
+        "./src/step_def/*.ts",
+    ],
+    "cucumberautocomplete.syncfeatures": "/home/sayali/Potractor_Assignment/Assignment_1/src/features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true
+}

@@ -1,0 +1,324 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Test dilip Oak's academy functionality",
+    "line": 1,
+    "id": "test-dilip-oak's-academy-functionality",
+    "tags": [],
+    "uri": "src/features/loginPage.feature",
+    "elements": [
+      {
+        "id": "test-dilip-oak's-academy-functionality;test-the-login-functionality",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Test the login functionality",
+        "tags": [
+          {
+            "name": "@End2End",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Chrome browser is open and hit the url",
+            "match": {
+              "location": "src/step_def/loginTest.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "User Enter the \"sayali\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User Enter \"pass\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7067000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User should be able to logged in",
+            "match": {
+              "location": "src/step_def/loginTest.ts:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5265000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "test-dilip-oak's-academy-functionality;test-the-login-functionality",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "Test the login functionality",
+        "tags": [
+          {
+            "name": "@End2End",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Chrome browser is open and hit the url",
+            "match": {
+              "location": "src/step_def/loginTest.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "User Enter the \"44444\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User Enter \"word\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1357000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User should be able to logged in",
+            "match": {
+              "location": "src/step_def/loginTest.ts:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5204000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "test-dilip-oak's-academy-functionality;test-the-login-functionality",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Test the login functionality",
+        "tags": [
+          {
+            "name": "@End2End",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Chrome browser is open and hit the url",
+            "match": {
+              "location": "src/step_def/loginTest.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "User Enter the \"admin@!34\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User Enter \"pass@123\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 733000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User should be able to logged in",
+            "match": {
+              "location": "src/step_def/loginTest.ts:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5185000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "test-dilip-oak's-academy-functionality;test-the-login-functionality",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Test the login functionality",
+        "tags": [
+          {
+            "name": "@End2End",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Chrome browser is open and hit the url",
+            "match": {
+              "location": "src/step_def/loginTest.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "User Enter the \"4444444444\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User Enter \"password\"",
+            "match": {
+              "location": "src/step_def/loginTest.ts:40"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 548000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User should be able to logged in",
+            "match": {
+              "location": "src/step_def/loginTest.ts:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5257000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
